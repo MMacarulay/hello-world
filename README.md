@@ -1,2 +1,2 @@
 # hello-world
-Ideas, resources, references links and materials
+Ideas, resources, references, blogs, books links and materials
